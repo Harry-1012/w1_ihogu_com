@@ -1,0 +1,179 @@
+{
+  "poems": {
+    "zh": [
+      {
+        "title": "诫子书",
+        "item": [
+          "夫君子之行，静以修身，俭以养德。非淡泊无以明志，非宁静无以致远。夫学须静也，才须学也，非学无以广才，非志无以成学。",
+          "淫慢则不能励精，险躁则不能治性。年与时驰，意与日去，遂成枯落，多不接世，悲守穷庐，将复何及"
+        ]
+      },
+      {
+        "title": "行路难 李白",
+        "item": [
+          "金樽清酒斗十千，玉盘珍羞直万钱。",
+          "停杯投箸不能食，拔剑四顾心茫然。",
+          "闲来垂钓碧溪上，忽复乘舟梦日边。",
+          "行路难，行路难，多歧路，今安在？",
+          "长风破浪会有时，直挂云帆济沧海。"
+        ]
+      },
+      {
+        "title": "浪淘沙·北戴河",
+        "item": [
+          "大雨落幽燕，白浪滔天，秦皇岛外打鱼船。一片汪洋都不见，知向谁边？",
+          "往事越千年，魏武挥鞭，东临碣石有遗篇。萧瑟秋风今又是，换了人间。"
+        ]
+      },
+      {
+        "title": "水调歌头·游泳",
+        "item": [
+          "才饮长沙水，又食武昌鱼。万里长江横渡，极目楚天舒。不管风吹浪打，胜似闲庭信步，今日得宽馀。子在川上曰：逝者如斯夫！",
+          "风樯动，龟蛇静，起宏图。一桥飞架南北，天堑变通途。更立西江石壁，截断巫山云雨，高峡出平湖。神女应无恙，当惊世界殊。"
+        ]
+      },
+      {
+        "title": "采桑子·重阳",
+        "item": [
+          "人生易老天难老，岁岁重阳。今又重阳，战地黄花分外香。",
+          "一年一度秋风劲，不似春光。胜似春光，寥廓江天万里霜。"
+        ]
+      },
+      {
+        "title": "青玉案·元夕",
+        "item": [
+          "东风夜放花千树，更吹落、星如雨。宝马雕车香满路。凤箫声动，玉壶光转，一夜鱼龙舞。",
+          "蛾儿雪柳黄金缕，笑语盈盈暗香去。众里寻他千百度，蓦然回首，那人却在，灯火阑珊处。"
+        ]
+      },
+      {
+        "title": "永遇乐·京口北固亭怀古",
+        "item": [
+          "千古江山，英雄无觅孙仲谋处。舞榭歌台，风流总被雨打风吹去。斜阳草树，寻常巷陌，人道寄奴曾住。想当年，金戈铁马，气吞万里如虎。",
+          "元嘉草草，封狼居胥，赢得仓皇北顾。四十三年，望中犹记，烽火扬州路。可堪回首，佛狸祠下，一片神鸦社鼓。凭谁问：廉颇老矣，尚能饭否？"
+        ]
+      },
+      {
+        "title": "破阵子·为陈同甫赋壮词以寄之",
+        "item": [
+          "醉里挑灯看剑，梦回吹角连营。八百里分麾下炙，五十弦翻塞外声，沙场秋点兵。",
+          "马作的卢飞快，弓如霹雳弦惊。了却君王天下事，赢得生前身后名。可怜白发生！"
+        ]
+      },
+      {
+        "title": "马说",
+        "item": [
+          "世有伯乐，然后有千里马。千里马常有，而伯乐不常有。故虽有名马，祗辱于奴隶人之手，骈死于槽枥之间，不以千里称也。",
+          "马之千里者，一食或尽粟一石。食马者不知其能千里而食也。是马也，虽有千里之能，食不饱，力不足，才美不外见，且欲与常马等不可得，安求其能千里也？",
+          "策之不以其道，食之不能尽其材，鸣之而不能通其意，执策而临之，曰：'天下无马！'呜呼！其真无马邪？其真不知马也！"
+        ]
+      }
+    ],
+    "en": [
+      {
+        "title": "Stray Birds - Rabindranath Tagore",
+        "item": [
+          "The world puts off its mask of vastness to its lover. It becomes small as one song, as one kiss of the eternal.",
+          "The butterfly counts not months but moments, and has time enough.",
+          "Let life be beautiful like summer flowers and death like autumn leaves."
+        ]
+      },
+      {
+        "title": "If You Forget Me - Pablo Neruda",
+        "item": [
+          "I want you to know one thing. You know how this is: if I look at the crystal moon, at the red branch of the slow autumn at my window, if I touch near the fire the impalpable ash or the wrinkled body of the log, everything carries me to you, as if everything that exists, aromas, light, metals, were little boats that sail toward those isles of yours that wait for me.",
+          "Well, now, if little by little you stop loving me I shall stop loving you little by little.",
+          "If suddenly you forget me do not look for me, for I shall already have forgotten you."
+        ]
+      },
+      {
+        "title": "Sonnet 18 - William Shakespeare",
+        "item": [
+          "Shall I compare thee to a summer's day? Thou art more lovely and more temperate:",
+          "Rough winds do shake the darling buds of May, And summer's lease hath all too short a date:",
+          "But thy eternal summer shall not fade, Nor lose possession of that fair thou ow'st,",
+          "So long as men can breathe or eyes can see, So long lives this, and this gives life to thee."
+        ]
+      },
+      {
+        "title": "The Road Not Taken - Robert Frost",
+        "item": [
+          "Two roads diverged in a yellow wood, And sorry I could not travel both",
+          "And be one traveler, long I stood And looked down one as far as I could",
+          "I took the one less traveled by, And that has made all the difference."
+        ]
+      },
+      {
+        "title": "Gitanjali - Rabindranath Tagore",
+        "item": [
+          "Where the mind is without fear and the head is held high;",
+          "Where knowledge is free; Where the world has not been broken up into fragments by narrow domestic walls;",
+          "Where words come out from the depth of truth; Where tireless striving stretches its arms towards perfection;",
+          "Into that heaven of freedom, my Father, let my country awake."
+        ]
+      },
+      {
+        "title": "Hope is the Thing with Feathers - Emily Dickinson",
+        "item": [
+          "Hope is the thing with feathers That perches in the soul,",
+          "And sings the tune without the words, And never stops at all,",
+          "And sweetest in the gale is heard; And sore must be the storm",
+          "That could abash the little bird That kept so many warm."
+        ]
+      },
+      {
+        "title": "Do Not Go Gentle Into That Good Night - Dylan Thomas",
+        "item": [
+          "Do not go gentle into that good night, Old age should burn and rave at close of day;",
+          "Rage, rage against the dying of the light.",
+          "Though wise men at their end know dark is right, Because their words had forked no lightning they",
+          "Do not go gentle into that good night."
+        ]
+      },
+      {
+        "title": "The Love Song of J. Alfred Prufrock - T.S. Eliot",
+        "item": [
+          "Let us go then, you and I, When the evening is spread out against the sky",
+          "Like a patient etherized upon a table; Let us go, through certain half-deserted streets,",
+          "In the room the women come and go Talking of Michelangelo.",
+          "I have measured out my life with coffee spoons."
+        ]
+      },
+      {
+        "title": "On Love - Kahlil Gibran",
+        "item": [
+          "When love beckons to you, follow him, Though his ways are hard and steep.",
+          "And when his wings enfold you yield to him, Though the sword hidden among his pinions may wound you.",
+          "For even as love crowns you so shall he crucify you. Even as he is for your growth so is he for your pruning.",
+          "Love gives naught but itself and takes naught but from itself. Love possesses not nor would it be possessed; For love is sufficient unto love."
+        ]
+      }
+    ]
+  },
+  "config": {
+    "zh": {
+      "title": "Harry Work🌟",
+      "welcome": "🧙欢迎光临 Harry Work🤗",
+      "go2blogwork": "<a href='https://app_c.ihogu.com'>软件📱</a> <a href='https://blog_old.ihogu.com'>博客📝</a>",
+      "meirishici": "📖每日诗词",
+      "greetings": {
+        "morning": "🌅早上好",
+        "afternoon": "☀️下午好",
+        "evening": "🌙晚上好",
+        "night": "🌙深夜好"
+      }
+    },
+    "en": {
+      "title": "Harry Work🌟",
+      "welcome": "🧙Welcome to Harry Work🤗",
+      "go2blogwork": "<a href='https://app_c.en.ihogu.com'>App📱</a> <a href='https://blog_old.en.ihogu.com'>Blog📝</a>",
+      "meirishici": "📖Daily Poetry",
+      "greetings": {
+        "morning": "🌅Good Morning",
+        "afternoon": "☀️Good Afternoon",
+        "evening": "🌙Good Evening",
+        "night": "🌙Good Night"
+      }
+    }
+  }
+}
